@@ -1,0 +1,5 @@
+= Migration für Page show_on_mobile, :default => true
+= Migration für Element show_on_mobile, :default => true
+= PageSweeper muss mobile Cache invalidieren
+= Page und Element published scope muss überschrieben werden
+= In allen helpern und views muss der published scope benutzt werden anstelle direct public abzufragen.
