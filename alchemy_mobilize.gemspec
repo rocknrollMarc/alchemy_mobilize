@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = AlchemyMobilize::VERSION
   s.authors     = ["Robin Böning, Thomas von Deyen"]
   s.email       = ["info@magiclabs.de"]
-  s.homepage    = "magiclabs.de"
+  s.homepage    = "http://magiclabs.de"
   s.summary     = "This gem allows content managers to decide if pages/elements should get rendered. It also provides a dedicated cache for mobile requests."
   s.description = "Alchemy Mobilize extends Alchemy CMS with features for mobile websites"
 
